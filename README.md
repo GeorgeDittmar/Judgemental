@@ -1,2 +1,2 @@
 # Judgemental
-LLM as a judge Agentic Framework
+LLM as a judge framework to help evaluate responses and feedback.
